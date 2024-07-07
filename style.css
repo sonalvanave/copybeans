@@ -10,6 +10,8 @@ weight:100%;
 }
 main{
     background-color: aqua;
+    background:image:url(background.jpg)
 height:100%;
 weight:100%;
+color:aliceblue;
 }
